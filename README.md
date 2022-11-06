@@ -1,16 +1,12 @@
-# clonespotify
+# clonespotify by design figma soroush norozy
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/56964592/200159639-76fb0ef4-bc6c-40a2-a5fc-f824083543c7.png)
 
-## Getting Started
+#Tampilan Register
+![image](https://user-images.githubusercontent.com/56964592/200159744-8c90815b-a1a9-4be0-901b-14afdd7fa9ac.png)
 
-This project is a starting point for a Flutter application.
+#Tampilan Login
+![image](https://user-images.githubusercontent.com/56964592/200159768-aaa9e781-f98f-40f8-992c-9e79be16674b.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Tampilan Menu Utama
+![image](https://user-images.githubusercontent.com/56964592/200159786-39f610cb-0f9b-4b22-89bb-ab560138d90a.png)
