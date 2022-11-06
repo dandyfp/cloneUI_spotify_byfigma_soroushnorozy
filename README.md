@@ -1,6 +1,6 @@
 # clonespotify by design figma soroush norozy
 
-![image](https://user-images.githubusercontent.com/56964592/200159639-76fb0ef4-bc6c-40a2-a5fc-f824083543c7.png)
+![image](https://user-images.githubusercontent.com/56964592/200159820-58dd408c-67ba-40d8-842b-69eadf251973.png)
 
 #Tampilan Register
 ![image](https://user-images.githubusercontent.com/56964592/200159744-8c90815b-a1a9-4be0-901b-14afdd7fa9ac.png)
